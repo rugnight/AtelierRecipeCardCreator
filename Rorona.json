@@ -1,0 +1,32 @@
+{
+  "ImageNum": 2,
+  "CardHeight": 300,
+  "NameRect": {
+    "ImageIndex": 0,
+    "X": 1080,
+    "Y": 110,
+    "W": 280,
+    "H": 40
+  },
+  "ItemRect": {
+    "ImageIndex": 0,
+    "X": 895,
+    "Y": 190,
+    "W": 240,
+    "H": 240
+  },
+  "MaterialRect": {
+    "ImageIndex": 1,
+    "X": 900,
+    "Y": 195,
+    "W": 300,
+    "H": 250
+  },
+  "CategoryRect": {
+    "ImageIndex": 0,
+    "X": 1195,
+    "Y": 195,
+    "W": 250,
+    "H": 250
+  }
+}
